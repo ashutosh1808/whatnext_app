@@ -14,3 +14,16 @@ To deploy this project run
         -> );
 ```
 
+
+## Compile and run
+
+To run tests, run the following command
+
+```bash
+  javac -cp ../ashu/* A1Test.java
+```
+```bash
+  java -cp ../ashu/*;. A1Test
+```
+
+
